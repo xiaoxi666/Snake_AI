@@ -124,3 +124,5 @@ To find snake **S1**'s next moving direction **D**, the AI follows the steps bel
 ## License
 
 See the [LICENSE](./LICENSE) file for license rights and limitations.
+
+#参见开源中国https://www.oschina.net/p/snake-ai
